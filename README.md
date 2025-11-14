@@ -10,8 +10,7 @@
 
 ### Android Application
 <div align=\"center\">
-  <img src=\"docs/android-edge-detection.jpg\" width=\"30%\" alt=\"Edge Detection - 25-30 FPS\" />![android-edge-detection](https://github.com/user-attachments/assets/869bceb5-3327-4b50-9768-b57f1054faad)
-
+  <img src=\"docs/android-edge-detection.jpg\" width=\"30%\" alt=\"Edge Detection - 25-30 FPS\" />
   <img src=\"docs/android-raw-feed.jpg\" width=\"30%\" alt=\"Raw Camera Feed\" />
   <img src=\"docs/android-upload.jpg\" width=\"30%\" alt=\"Network Upload Active\" />
 </div>
