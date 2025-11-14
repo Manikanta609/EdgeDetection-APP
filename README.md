@@ -9,16 +9,16 @@
 ##  Screenshots
 
 ### Android Application
-<div align=\"center\">
-  <img src=\"docs/android-edge-detection.jpg\" width=\"30%\" alt=\"Edge Detection - 25-30 FPS\" />
-  <img src=\"docs/android-raw-feed.jpg\" width=\"30%\" alt=\"Raw Camera Feed\" />
-  <img src=\"docs/android-upload.jpg\" width=\"30%\" alt=\"Network Upload Active\" />
+<div align="center">
+  <img src="docs/android-edge-detection.jpg" width="30%" alt="Edge Detection - 25-30 FPS" />
+  <img src="docs/android-raw-feed.jpg" width="30%" alt="Raw Camera Feed" />
+  <img src="docs/android-upload.jpg" width="30%" alt="Network Upload Active" />
 </div>
 
 ### Web Viewer Dashboard
-<div align=\"center\">
-  <img src=\"docs/web-viewer-edges.png\" width=\"45%\" alt=\"Web Dashboard - Edge Detection\" />
-  <img src=\"docs/web-viewer-grayscale.png\" width=\"45%\" alt=\"Web Dashboard - Grayscale Mode\" />
+<div align="center">
+  <img src="docs/web-viewer-edges.png" width="45%" alt="Web Dashboard - Edge Detection" />
+  <img src="docs/web-viewer-grayscale.png" width="45%" alt="Web Dashboard - Grayscale Mode" />
 </div>
 
 ---
